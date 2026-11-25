@@ -12,5 +12,5 @@
 | SDU-Unicast.m3u | 山东联通单播源（通用版） | [订阅](文件的在线直链地址) |
 | SDT-Unicast.m3u | 山东电信单播源（通用版） | [订阅](文件的在线直链地址) |
 | SDM-Unicast.m3u | 山东移动单播源（通用版） | [订阅](文件的在线直链地址) |
-| SDM-Unicast-Rtsp.m3u | 山东移动单播源（RTSP通用版） | [订阅](文件的在线直链地址) |
+| SDM-Unicast-Rtsp.m3u | 山东移动单播源（RTSP通用版） | [订阅] (https://gh-proxy.org/https://github.com/wanghe1108/IPTV/blob/main/SDM-Unicast-Rtsp.m3u)|
 | SDU-Multicast.m3u | 山东联通组播源（潍坊版） | [订阅](文件的在线直链地址) |
