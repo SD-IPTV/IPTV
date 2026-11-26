@@ -12,3 +12,14 @@
 | SDM-Unicast.m3u | 山东移动单播源（m3u8版） | [[订阅](https://gh-proxy.org/https://github.com/wanghe1108/IPTV/blob/main/SDM-Unicast-Rtsp.m3u)](文件的在线直链地址) |
 | SDM-Unicast.m3u | 山东移动单播源（RTSP版） | [[订阅](https://gh-proxy.org/https://github.com/wanghe1108/IPTV/blob/main/SDM-Unicast-Rtsp.m3u)] |
 | SDT-Unicast.m3u | 山东电信单播源（通用版） | [订阅](文件的在线直链地址) |
+
+
+
+
+ 使用方法
+将以下任意链接复制到常见的 IPTV 播放壳（如 酷9、云影空蒙、IPTV Pro、APTV、mytv 等）的 EPG 设置（注意格式是xml）中即可使用：
+
+版本说明	EPG 地址
+无节目描述版	https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc.xml.gz
+含节目描述版	https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz
+suming 维护版	https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/xml/refs/heads/main/epg.xml
